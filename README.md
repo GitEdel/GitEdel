@@ -1,5 +1,8 @@
+<!--
 [README.md](https://github.com/user-attachments/files/22415854/README.md)## Hi there 👋
-[Uploading # Edel Marrero — Program & Project Manager (MBA, PMI PMP®(ACP, PgMP)
+[Uploading # 
+-->
+Edel Marrero — Program & Project Manager (MBA, PMI PMP®(ACP, PgMP)
 
 **People • Process • Technology** — I lead efforts that turn strategy into outcomes.
 - **Domains:** Enterprise, Healthcare, SaaS, Cloud, Cybersecurity, Data & Analytics, Federal/Defense

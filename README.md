@@ -16,7 +16,7 @@ Edel Marrero — Program & Project Manager (MBA, PMI PMP®(ACP, PgMP)
 - Built repeatable PMO playbooks (RAID, RACI, Agile, SAFe, Kanban, Scrum, KPI dashboards)
 - Governance and Compliance alignment and enforcement.
 - Led projects across all 3 sectors of the economy and >20 Industries
-- Project include infrastructure, build, test, on‑prem → SaaS migrations, Secured delivery in regulated environments.
+- Projects include infrastructure, build, test, on‑prem → SaaS migrations, Secured delivery in regulated environments.
 
 > “Clarity beats complexity. Cadence beats chaos.”
 

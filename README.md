@@ -5,18 +5,25 @@
 Edel Marrero — Program & Project Manager (MBA, PMI PMP®(ACP, PgMP)
 
 **People • Process • Technology** — I lead efforts that turn strategy into outcomes.
-- **Domains:** Enterprise, Healthcare, SaaS, Cloud, Cybersecurity, Data & Analytics, Federal/Defense
+- **Domains:** Enterprise, Finance/Treasury, Payment/Banking, SaaS, Cloud, Cybersecurity, Data & Analytics, Federal/Defense, Healthcare
 - **Tooling:** Microsoft 365 (MS Project/Sharepoint/Teams/O365), Smartsheets, Jira/Confluence, Power BI, ServiceNow, Splunk Cloud
-- **Methods:** PMI/PMBOK, Agile/Scrum, SAFe, SDLC, Waterfall, Hybrid.
-		Custom cadence-based control (real-time, weekly, monthly)
-- **Focus:** Managing initiatives that run, grow, and transform enterprises. Radiating Stakeholder awareness. Governance, risk, user adoption (OCM, ADKAR), measurable ROI, Executive Reporting
+- **Methods:** PMI/PMBOK, Agile iterative delivery (Scrum, Kanban, SAFe), SDLC, Waterfall, Hybrid,
+- 		* ISO 21500 /21502, ITIL, COBIT, DevOps / CI-CD
+		* Establishing custom cadence-based control (real-time, weekly, monthly)
+- **Focus:** Managing initiatives that run, grow, and transform enterprises. Radiating Stakeholder awareness. Governance (SOX/ERM/FAR/DFARS), risk, user adoption (OCM, ADKAR), measurable ROI, Executive Reporting-
+- **Compliance:** Adept at including scope to meet domain specific compliance demands:
+-		- SECURITY: ISO/IEC 27001, NIST risk, GDPR / CCPA / HIPAA data privacy, SOC 2 fin data, PCI-DSS cardholder info
+-		- CYBER ACCESS: MFA, Least Privilege,++
+-		- QUALITY/CI: Six Sigma/Lean, Maturity Models (CMMI, Agile adoption)
+-		- Internal CORPORATE:  SDLC, PMLC,Change Advisory Board, Architecture Review Board, Data (metadata, retention, cloud policy) 
+- - 
 
 ### Highlights
 - Directed $1B+ scale initiatives with executive reporting and real-time, weekly, monthly .
 - Built repeatable PMO playbooks (RAID, RACI, Agile, SAFe, Kanban, Scrum, KPI dashboards)
 - Governance and Compliance alignment and enforcement.
 - Led projects across all 3 sectors of the economy and >20 Industries
-- Projects include infrastructure, build, test, on‑prem → SaaS migrations, Secured delivery in regulated environments.
+- Projects include Finance, IT infrastructure, build, test, on‑prem → SaaS migrations, Secured delivery in regulated environments.
 
 > “Clarity beats complexity. Cadence beats chaos.”
 

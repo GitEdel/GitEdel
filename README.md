@@ -10,13 +10,12 @@ Edel Marrero — Program & Project Manager (MBA, PMI PMP®(ACP, PgMP)
 - **Methods:** PMI/PMBOK, Agile iterative delivery (Scrum, Kanban, SAFe), SDLC, Waterfall, Hybrid,
 - 		* ISO 21500 /21502, ITIL, COBIT, DevOps / CI-CD
 		* Establishing custom cadence-based control (real-time, weekly, monthly)
-- **Focus:** Managing initiatives that run, grow, and transform enterprises. Radiating Stakeholder awareness. Governance (SOX/ERM/FAR/DFARS), risk, user adoption (OCM, ADKAR), measurable ROI, Executive Reporting-
+- **Focus:** Managing initiatives that run, grow, and transform enterprises. Radiating Stakeholder awareness. Governance, risk, user adoption (OCM, ADKAR), measurable ROI, Executive Reporting-
 - **Compliance:** Adept at including scope to meet domain specific compliance demands:
--		- SECURITY: ISO/IEC 27001, NIST risk, GDPR / CCPA / HIPAA data privacy, SOC 2 fin data, PCI-DSS cardholder info
+-		- DATA SECURITY: DPIA Impact Assessments, ISO/IEC 27001, NIST risk, GDPR / CCPA / HIPAA data privacy, SOC 2 fin data, PCI-DSS cardholder info, PSD2, FFIEC regulators, SOX/ERM/FAR/DFARS
 -		- CYBER ACCESS: MFA, Least Privilege,++
 -		- QUALITY/CI: Six Sigma/Lean, Maturity Models (CMMI, Agile adoption)
--		- Internal CORPORATE:  SDLC, PMLC,Change Advisory Board, Architecture Review Board, Data (metadata, retention, cloud policy) 
-- - 
+-		- CORPORATE:  SDLC, PMLC, Change Advisory Board, Architecture Review Board, Data (metadata, retention, cloud policy) 
 
 ### Highlights
 - Directed $1B+ scale initiatives with executive reporting and real-time, weekly, monthly .

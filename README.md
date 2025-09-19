@@ -26,8 +26,8 @@ Edel Marrero — Program & Project Manager (MBA, PMI PMP®(ACP, PgMP)
 📧 EdelMarrero681@gmail.com • 📞 407‑252‑3375 (TEXT) • 📍 St. Petersburg, FL
 
 ### Quick Links
-- 🧰 [PM Toolkit](../01-Templates/) — ready-to-use templates
-- 🧭 [How to use this kit](../07-HowTo/How_to_use_this_toolkit.md)
+- 🧰 [PM Toolkit](https://github.com/GitEdel/pm-toolkit) — ready-to-use templates
+- 🧭 [How to use this kit]((https://github.com/GitEdel/pm-toolkit/tree/main/07-HowTo))
 README.md…]()
 
 <!-- Hello Edel, you have this readme file on your HP laptop - C:\Users\Enterprise\Documents\00 ADMIN\00 GitEdel\PM_GitHub_Starter_Kit\00-Profile-README

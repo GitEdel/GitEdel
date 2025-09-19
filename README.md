@@ -27,8 +27,7 @@ Edel Marrero — Program & Project Manager (MBA, PMI PMP®(ACP, PgMP)
 
 ### Quick Links
 - 🧰 [PM Toolkit](https://github.com/GitEdel/pm-toolkit) — ready-to-use templates
-- 🧭 [How to use this kit]((https://github.com/GitEdel/pm-toolkit/tree/main/07-HowTo))
-README.md…]()
+- 🧭 [How to use this kit](https://github.com/GitEdel/pm-toolkit/tree/main/07-HowTo) - Usage instructions
 
 <!-- Hello Edel, you have this readme file on your HP laptop - C:\Users\Enterprise\Documents\00 ADMIN\00 GitEdel\PM_GitHub_Starter_Kit\00-Profile-README
 

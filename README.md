@@ -6,7 +6,7 @@ Edel Marrero — Program & Project Manager (MBA, PMI PMP®(ACP, PgMP)
 
 **People • Process • Technology** — Let's work together to turn strategy into outcomes.
 - **Domains:** Enterprise, Finance/Treasury, Payment/Banking, SaaS, Cloud, Cybersecurity, Data & Analytics, Federal/Defense, Healthcare
-- **Tooling:** Microsoft 365 (MS Project/Sharepoint/Teams/O365), Smartsheets, Jira/Confluence, Power BI, ServiceNow, Splunk Cloud
+- **Tooling:** Microsoft 365 (MS Project/Sharepoint/Teams/O365), Smartsheets, Jira/Confluence, Power BI, ServiceNow, Splunk Cloud 
 - **Methods:** PMI/PMBOK, Agile iterative delivery (Scrum, Kanban, SAFe), SDLC, Waterfall, Hybrid,
 - 		* ISO 21500 /21502, ITIL, COBIT, DevOps / CI-CD
 		* Establishing custom cadence-based control (real-time, weekly, monthly)

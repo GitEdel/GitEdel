@@ -18,8 +18,11 @@ Edel Marrero — Program & Project Manager - MBA, PMI PMP®(ACP, PgMP)
 -		- CORPORATE:  SDLC, PMLC, Change Advisory Board, Architecture Review Board, Data (metadata, retention, cloud policy) 
 
 ### Highlights
-- Directed $1B+ scale initiatives with executive reporting and real-time, weekly, monthly .
-- Built repeatable PMO playbooks (RAID, RACI, Agile, SAFe, Kanban, Scrum, KPI dashboards)
+- Directed $1B+ scale initiatives with dynamic, low-strain stakeholder engagement
+- Built repeatable communication pathways (real-time, weekly, monthly cadence-based formats supported by self-service info flows)
+- Built repeatable PMO playbooks
+	- Protfolio management supporting PM methodologies: Agile based Scrum, SAFe, Kanban, Waterfall, Hybrid
+ 	- Tactical funadamentals - RAID, RACI, Agile, KPI dashboards
 - Governance and Compliance alignment and enforcement.
 - Led projects across all 3 sectors of the economy and >20 Industries
 - Projects include Finance, IT infrastructure, build, test, on‑prem → SaaS migrations, Secured delivery in regulated environments.

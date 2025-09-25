@@ -2,7 +2,7 @@
 [README.md](https://github.com/user-attachments/files/22415854/README.md)## Hi there 👋
 [Uploading # 
 -->
-Edel Marrero — Program & Project Manager (MBA, PMI PMP®(ACP, PgMP)
+Edel Marrero — Program & Project Manager - MBA, PMI PMP®(ACP, PgMP)
 
 **People • Process • Technology** — Let's work together to turn strategy into outcomes.
 - **Domains:** Enterprise, Finance/Treasury, Payment/Banking, SaaS, Cloud, Cybersecurity, Data & Analytics, Federal/Defense, Healthcare

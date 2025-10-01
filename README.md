@@ -4,6 +4,10 @@
 -->
 Edel Marrero — Program & Project Manager - MBA, PMI PMP®(ACP, PgMP)
 
+	* Recognized for establishing PMO processes, delivering mission-critical programs, transforming strategic objectives into actionable roadmaps, and aligning diverse stakeholders 
+	* Leading cross-functional initiatives across federal, defense, and commercial sectors
+	* Adept at managing the full program lifecycle—including planning, execution, governance, risk management, and benefit realization—while fostering transparency and collaboration at every level.
+
 **People • Process • Technology** — Let's work together to turn strategy into outcomes.
 - **Domains:** Enterprise, Finance/Treasury, Payment/Banking, SaaS, Cloud, Cybersecurity, Data & Analytics, Federal/Defense, Healthcare
 - **Tooling:** Microsoft 365 (MS Project/Sharepoint/Teams/O365), Smartsheets, Jira/Confluence, Power BI, ServiceNow, Splunk Cloud 
@@ -18,7 +22,8 @@ Edel Marrero — Program & Project Manager - MBA, PMI PMP®(ACP, PgMP)
 -		- CORPORATE:  SDLC, PMLC, Change Advisory Board, Architecture Review Board, Data (metadata, retention, cloud policy) 
 
 ### Highlights
-- Directed $1B+ scale initiatives with dynamic, low-strain stakeholder engagement
+- Trusted advisor to executives and a natural communicator who inspires high-performing teams, mitigates risks, and drives innovation in fast-paced environments.
+- Directed $1B+ scale initiatives
 - Built repeatable communication pathways (real-time, weekly, monthly cadence-based formats supported by self-service info flows)
 - Built repeatable PMO playbooks
 	- Protfolio management supporting PM methodologies: Agile based Scrum, SAFe, Kanban, Waterfall, Hybrid

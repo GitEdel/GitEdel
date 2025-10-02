@@ -46,44 +46,44 @@ Edel Marrero — Program & Project Manager - MBA, PMI PMP®(ACP, PgMP)
 
 ---
 
-🔹 Featured IAM Projects -  Edel Marrero – IAM Projects Portfolio
+🔹 **Featured IAM Projects -  Edel Marrero – IAM Projects Portfolio**
 
 **Identity & Access Management | Governance | Compliance | Cloud Security**
 
 
 1. Identity Governance & Access Certification (Federal Client, GDMS)
 
-Rolled out Identity Governance & Administration (IGA) framework supporting >15,000 users.
+	- Rolled out Identity Governance & Administration (IGA) framework supporting >15,000 users.
 
-Onboarded 50+ business applications into IGA with role-based access controls (RBAC).
+	- Onboarded 50+ business applications into IGA with role-based access controls (RBAC).
 
-Designed and executed access certification campaigns, reducing dormant accounts by 42%.
+	- Designed and executed access certification campaigns, reducing dormant accounts by 42%.
 
-Outcome: Improved compliance with FISMA/NIST 800-53 and passed federal audit with zero findings.
+	- **Outcome:** Improved compliance with FISMA/NIST 800-53 and passed federal audit with zero findings.
 
 2. Privileged Access Management (PAM) Implementation
 
-Partnered with security engineers to implement credential vaulting, session monitoring, and just-in-time (JIT) privileged access.
+	- Partnered with security engineers to implement credential vaulting, session monitoring, and just-in-time (JIT) privileged access.
 
-Migrated >2,500 privileged accounts from legacy systems into PAM solution.
+	- Migrated >2,500 privileged accounts from legacy systems into PAM solution.
 
-Reduced unauthorized privilege escalations and cut audit remediation efforts by 30%.
+	- **Outcome:** Reduced unauthorized privilege escalations and cut audit remediation efforts by 30%.
 
 3. Splunk Enterprise-to-Cloud Migration ($2.8M)
 
-Directed enterprise Splunk migration with IAM integration for authentication and user provisioning.
+	- Directed enterprise Splunk migration with IAM integration for authentication and user provisioning.
 
-Coordinated across infrastructure, engineering, and audit teams to ensure FedRAMP-compliant controls.
+	- Coordinated across infrastructure, engineering, and audit teams to ensure FedRAMP-compliant controls.
 
-Delivered migration on time, enabling faster analytics with secure role-based access.
+	- **Outcome:** Delivered migration on time, enabling faster analytics with secure role-based access.
 
 4. SaaS/ERP Modernization – IBM Global Business Services
 
-Implemented single sign-on (SSO) and RBAC workflows during multi-country ERP modernization.
+	- Implemented single sign-on (SSO) and RBAC workflows during multi-country ERP modernization.
 
-Automated user provisioning/de-provisioning via IAM connectors.
+	- Automated user provisioning/de-provisioning via IAM connectors.
 
-Supported compliance across healthcare and finance clients, including HIPAA & SOX.
+	- **Outcome:** Supported compliance across healthcare and finance clients, including HIPAA & SOX.
 
 ---
 

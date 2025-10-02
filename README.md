@@ -77,7 +77,7 @@ Edel Marrero — Program & Project Manager - MBA, PMI PMP®(ACP, PgMP)
 
 	- **Outcome:** Delivered migration on time, enabling faster analytics with secure role-based access.
 
-4. SaaS/ERP Modernization – IBM Global Business Services
+4. SaaS/ERP Modernization – Jabil, and GDMS
 
 	- Implemented single sign-on (SSO) and RBAC workflows during multi-country ERP modernization.
 

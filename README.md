@@ -3,23 +3,25 @@
 [Uploading # 
 -->
 Edel Marrero — Program & Project Manager - MBA, PMI PMP®(ACP, PgMP)
+> “Clarity beats complexity. Cadence beats chaos.”
 
 	* Recognized for establishing PMO processes, delivering mission-critical programs, transforming strategic objectives into actionable roadmaps, and aligning diverse stakeholders 
 	* Leading cross-functional initiatives across federal, defense, and commercial sectors
 	* Adept at managing the full program lifecycle—including planning, execution, governance, risk management, and benefit realization—while fostering transparency and collaboration at every level.
+	* **IAM-enabled cloud and SaaS transformations** - Skilled in aligning stakeholder teams to strengthen security posture, enhance compliance readiness across multiple regulated industrues, and reduced audit findings. 
 
 **People • Process • Technology** — Let's work together to turn strategy into outcomes.
 - **Domains:** Enterprise, Finance/Treasury, Payment/Banking, SaaS, Cloud, Cybersecurity, Data & Analytics, Federal/Defense, Healthcare
-- **Tooling:** Microsoft 365 (MS Project/Sharepoint/Teams/O365), Smartsheets, Jira/Confluence, Power BI, ServiceNow, Splunk Cloud 
+- **Tooling Program Delivery:** Agile/Scrum, Jira, Confluence, Microsoft 365 (MS Project/Sharepoint/Teams/O365), Smartsheets, Executive Dashboards, Power BI, ServiceNow, Splunk Cloud Dashboards (Admin level configuration skills)
 - **Methods:** PMI/PMBOK, Agile iterative delivery (Scrum, Kanban, SAFe), SDLC, Waterfall, Hybrid,
 - 		* ISO 21500 /21502, ITIL, COBIT, DevOps / CI-CD
 		* Establishing custom cadence-based control (real-time, weekly, monthly)
-- **Focus:** Managing initiatives that run, grow, and transform enterprises. Radiating Stakeholder awareness. Governance, risk, user adoption (OCM, ADKAR), measurable ROI, Executive Reporting-
+- **Focus:** Managing initiatives that run, grow, and transform enterprises. Radiating Stakeholder awareness. Governance, IAM, risk, user adoption (OCM, ADKAR), measurable ROI, Executive Reporting-
 - **Compliance:** Adept at including scope to meet domain specific compliance demands:
--		- DATA SECURITY: DPIA Impact Assessments, ISO/IEC 27001, NIST risk, GDPR / CCPA / HIPAA data privacy, SOC 2 fin data, PCI-DSS cardholder info, PSD2, FFIEC regulators, SOX/ERM/FAR/DFARS
--		- CYBER ACCESS: MFA, Least Privilege,++
--		- QUALITY/CI: Six Sigma/Lean, Maturity Models (CMMI, Agile adoption)
--		- CORPORATE:  SDLC, PMLC, Change Advisory Board, Architecture Review Board, Data (metadata, retention, cloud policy) 
+- DATA SECURITY: DPIA Impact Assessments, ISO/IEC 27001, NIST risk, GDPR / CCPA / HIPAA data privacy, SOC 2 fin data, PCI-DSS cardholder info, PSD2, FFIEC regulators, SOX/ERM/FAR/DFARS
+- CYBER ACCESS: **IAM Domains:** IGA, PAM, RBAC, SSO, MFA **Frameworks:** NIST 800-53, FedRAMP, HIPAA, FISMA **Platforms:** Okta, Auth0, ServiceNow, Active Directory, CyberArk (PAM), Splunk, AWS IAM
+- QUALITY/CI: Six Sigma/Lean, Maturity Models (CMMI, Agile adoption)
+- CORPORATE:  SDLC, PMLC, Change Advisory Board, Architecture Review Board, Data (metadata, retention, cloud policy) 
 
 ### Highlights
 - Trusted advisor to executives and a natural communicator who inspires high-performing teams, mitigates risks, and drives innovation in fast-paced environments.
@@ -32,7 +34,7 @@ Edel Marrero — Program & Project Manager - MBA, PMI PMP®(ACP, PgMP)
 - Led projects across all 3 sectors of the economy and >20 Industries
 - Projects include Finance, IT infrastructure, build, test, on‑prem → SaaS migrations, Secured delivery in regulated environments.
 
-> “Clarity beats complexity. Cadence beats chaos.”
+
 
 ---
 

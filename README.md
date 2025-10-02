@@ -2,13 +2,23 @@
 [README.md](https://github.com/user-attachments/files/22415854/README.md)## Hi there 👋
 [Uploading # 
 -->
+---
+
+### Contact
+📧 EdelMarrero681@gmail.com • 📞 407‑252‑3375 (TEXT) • 📍 St. Petersburg, FL • 📍 Washington, DC
+
+### Quick Links
+- 🧰 [PM Toolkit](https://github.com/GitEdel/pm-toolkit) — ready-to-use templates
+- 🧭 [How to use this kit](https://github.com/GitEdel/pm-toolkit/tree/main/07-HowTo) - Usage instructions
+
+---
 Edel Marrero — Program & Project Manager - MBA, PMI PMP®(ACP, PgMP)
 > “Clarity beats complexity. Cadence beats chaos.”
 
-	* Recognized for establishing PMO processes, delivering mission-critical programs, transforming strategic objectives into actionable roadmaps, and aligning diverse stakeholders 
-	* Leading cross-functional initiatives across federal, defense, and commercial sectors
-	* Adept at managing the full program lifecycle—including planning, execution, governance, risk management, and benefit realization—while fostering transparency and collaboration at every level.
-	* **IAM-enabled cloud and SaaS transformations** - Skilled in aligning stakeholder teams to strengthen security posture, enhance compliance readiness across multiple regulated industrues, and reduced audit findings. 
+-  * Recognized for establishing PMO processes, delivering mission-critical programs, transforming strategic objectives into actionable roadmaps, and aligning diverse stakeholders
+-  * Leading cross-functional initiatives across federal, defense, and commercial sectors
+-  * Adept at managing the full program lifecycle—including planning, execution, governance, risk management, and benefit realization—while fostering transparency and collaboration at every level.
+-  * Understanding Regulatory and Compliance Scope Elements - **IAM-enabled cloud and SaaS transformations** - Skilled in aligning stakeholder teams to strengthen security posture, enhance compliance readiness across multiple regulated industrues, and reduced audit findings. 
 
 **People • Process • Technology** — Let's work together to turn strategy into outcomes.
 - **Domains:** Enterprise, Finance/Treasury, Payment/Banking, SaaS, Cloud, Cybersecurity, Data & Analytics, Federal/Defense, Healthcare
@@ -34,16 +44,48 @@ Edel Marrero — Program & Project Manager - MBA, PMI PMP®(ACP, PgMP)
 - Led projects across all 3 sectors of the economy and >20 Industries
 - Projects include Finance, IT infrastructure, build, test, on‑prem → SaaS migrations, Secured delivery in regulated environments.
 
-
-
 ---
 
-### Contact
-📧 EdelMarrero681@gmail.com • 📞 407‑252‑3375 (TEXT) • 📍 St. Petersburg, FL
+🔹 Featured IAM Projects -  Edel Marrero – IAM Projects Portfolio
 
-### Quick Links
-- 🧰 [PM Toolkit](https://github.com/GitEdel/pm-toolkit) — ready-to-use templates
-- 🧭 [How to use this kit](https://github.com/GitEdel/pm-toolkit/tree/main/07-HowTo) - Usage instructions
+**Identity & Access Management | Governance | Compliance | Cloud Security**
+
+
+1. Identity Governance & Access Certification (Federal Client, GDMS)
+
+Rolled out Identity Governance & Administration (IGA) framework supporting >15,000 users.
+
+Onboarded 50+ business applications into IGA with role-based access controls (RBAC).
+
+Designed and executed access certification campaigns, reducing dormant accounts by 42%.
+
+Outcome: Improved compliance with FISMA/NIST 800-53 and passed federal audit with zero findings.
+
+2. Privileged Access Management (PAM) Implementation
+
+Partnered with security engineers to implement credential vaulting, session monitoring, and just-in-time (JIT) privileged access.
+
+Migrated >2,500 privileged accounts from legacy systems into PAM solution.
+
+Reduced unauthorized privilege escalations and cut audit remediation efforts by 30%.
+
+3. Splunk Enterprise-to-Cloud Migration ($2.8M)
+
+Directed enterprise Splunk migration with IAM integration for authentication and user provisioning.
+
+Coordinated across infrastructure, engineering, and audit teams to ensure FedRAMP-compliant controls.
+
+Delivered migration on time, enabling faster analytics with secure role-based access.
+
+4. SaaS/ERP Modernization – IBM Global Business Services
+
+Implemented single sign-on (SSO) and RBAC workflows during multi-country ERP modernization.
+
+Automated user provisioning/de-provisioning via IAM connectors.
+
+Supported compliance across healthcare and finance clients, including HIPAA & SOX.
+
+---
 
 <!-- Hello Edel, you have this readme file on your HP laptop - C:\Users\Enterprise\Documents\00 ADMIN\00 GitEdel\PM_GitHub_Starter_Kit\00-Profile-README
 
